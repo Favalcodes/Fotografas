@@ -4,6 +4,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
+}
+h1, h2, h3, h4, h5, h6{
+    overflow: hidden;
 }
 .fa-bars{
     color: #fff;
@@ -209,7 +213,7 @@ nav{
 .footer-links{
     padding: 40px;
 }
-.footer ul{
+.footer .footer-links ul{
     line-height: 40px;
 }
 .list{
@@ -223,6 +227,7 @@ nav{
     width: auto;
     padding: 0 10px;
     height: 100%;
+    overflow: hidden;
     text-align: center;
 }
 .lists{
