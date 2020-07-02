@@ -257,7 +257,10 @@ nav{
 .foto{
     padding-right: 20px;
 }
-@media (max-width:430px){
+/* @media (max-width: 429.98px){
+
+} */
+@media (min-width:230px){
     .text-tag{
         background-color: #fe5d26;
         color: #fff;
@@ -297,7 +300,111 @@ nav{
         position: absolute;
         transform: rotate(-90deg);
         top: 58px;
-        left: 58%;
+        left: 59%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 150px;
+    }
+    .footer{
+        font-size: 15px;
+    }
+    .footer h5{
+        font-size: 17px;
+    }
+}
+@media (max-width: 779.98px){
+
+}
+@media (min-width: 780px){
+    .text-tag{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 53px;
+        left: 62%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 140px;
+    }
+    .text-tag3{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 54px;
+        left: 61%;
+        text-align: center;
+        padding: 8px 0px;
+        width: 140px;
+    }
+    .text-tag2{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 58px;
+        left: 60%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 150px;
+    }
+    .text-tag4{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 60px;
+        left: 54%;
+        text-align: center;
+        padding: 6px 0px;
+        width: 150px;
+    }
+}
+@media (max-width: 1023.98px){
+    
+}
+@media (min-width: 1024px){
+    .text-tag{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 53px;
+        left: 73%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 140px;
+    }
+    .text-tag3{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 53px;
+        left: 73%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 140px;
+    }
+    .text-tag2{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 58px;
+        left: 70%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 150px;
+    }
+    .text-tag4{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 58px;
+        left: 68%;
         text-align: center;
         padding: 10px 0px;
         width: 150px;
