@@ -135,6 +135,17 @@ nav{
     padding: 10px 0px;
     width: 140px;
 }
+.text-tag3{
+    background-color: #fe5d26;
+    color: #fff;
+    position: absolute;
+    transform: rotate(-90deg);
+    top: 53px;
+    left: 71%;
+    text-align: center;
+    padding: 10px 0px;
+    width: 140px;
+}
 .latest{
     padding: 20px 0;
 }
@@ -164,6 +175,17 @@ nav{
     transform: rotate(-90deg);
     top: 58px;
     left: 70%;
+    text-align: center;
+    padding: 10px 0px;
+    width: 150px;
+}
+.text-tag4{
+    background-color: #fe5d26;
+    color: #fff;
+    position: absolute;
+    transform: rotate(-90deg);
+    top: 58px;
+    left: 68%;
     text-align: center;
     padding: 10px 0px;
     width: 150px;
@@ -247,6 +269,17 @@ nav{
         padding: 10px 0px;
         width: 140px;
     }
+    .text-tag3{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 53px;
+        left: 60%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 140px;
+    }
     .text-tag2{
         background-color: #fe5d26;
         color: #fff;
@@ -254,6 +287,17 @@ nav{
         transform: rotate(-90deg);
         top: 58px;
         left: 60%;
+        text-align: center;
+        padding: 10px 0px;
+        width: 150px;
+    }
+    .text-tag4{
+        background-color: #fe5d26;
+        color: #fff;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 58px;
+        left: 58%;
         text-align: center;
         padding: 10px 0px;
         width: 150px;
