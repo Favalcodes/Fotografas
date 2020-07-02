@@ -141,7 +141,7 @@ nav{
     position: absolute;
     transform: rotate(-90deg);
     top: 53px;
-    left: 71%;
+    left: 73%;
     text-align: center;
     padding: 10px 0px;
     width: 140px;
@@ -274,10 +274,10 @@ nav{
         color: #fff;
         position: absolute;
         transform: rotate(-90deg);
-        top: 53px;
-        left: 60%;
+        top: 54px;
+        left: 61%;
         text-align: center;
-        padding: 10px 0px;
+        padding: 8px 0px;
         width: 140px;
     }
     .text-tag2{
