@@ -34,7 +34,7 @@ nav{
     font-size: 18px;
 }
 .navbar-brand{
-    padding-left: 30px;
+    padding-left: 20px;
     font-size: 24px;
     font-weight: 400;
 }
@@ -57,9 +57,6 @@ nav{
 }
 
 /* about */
-/* .about-text{
-    width: 50%;
-} */
 .about .col-md-4{
     padding: 10px;
 }
